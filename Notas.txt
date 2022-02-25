@@ -1,0 +1,19 @@
+Produzi o html e css sem problemas mas fiquei empacado um bom tempo no typescript pois nunca havia trabalhado com ele antes,
+Dei uma estuda, peguei algumas referencias e dei uma boa avançada no projeto mas parei no etapa 7
+
+As etapas era:
+
+1 - Entender estrutura de arquivos e o que vai ser avaliado ✔️
+2 - Fazer Html e Css mobile first ✔️
+3 - Testar funcionamento do audio  ✔️
+4 - Fazer funcionalidades projeto ✔️
+5 - Estudar typescript para resolver os erros ✔️
+6 - Procurar referencias de player de musicas ✔️
+7 - Resolver erros das funcionalidades do player ❌
+8 - Fazer função para a música ficar sublinhada quando em execução
+9 - Tirar mock de lista de musica e usar arquivo json
+10 - Encapsular classes principais 
+11 - Separar classes e funções em arquivos diferentes e corrigir estrutura de diretorios
+12 - Verificar se todos os testes requeridos foram cumpridos
+13 - Se sobrar tempo Implementar função de barra de progresso da música 
+14 - Entregar o projeto.
